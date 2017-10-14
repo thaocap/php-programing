@@ -1,13 +1,12 @@
+<!DOCTYPE html>
 <html>
-
-   <head>
-      <title>Ví dụ chương trình PHP</title>
-   </head>
-   <body>
-       <?php
-          echo "Ví dụ minh họa lệnh echo! <br>";
-
-          print "Ví dụ minh họa lệnh print!";
-       ?>
-   </body>
+  <head>
+    <title>cu phap php</title>
+  </head>
+  <body>
+    <?php
+      echo "vi du minh hoa ve echo <br>";
+      print "vi du minh hoa lenh print";
+    ?>
+  </body>
 </html>
